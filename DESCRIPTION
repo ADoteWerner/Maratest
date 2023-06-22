@@ -1,0 +1,23 @@
+Package: maratest
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.9001
+Authors@R: 
+    person(Anke, Werner, wernera4@staff.uni-marburg.de, role = c(aut),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: What the package does (one paragraph).
+License: GPL-3
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+URL: https://github.com/"ADoteWerner/Maratest"
+BugReports: https://github.com/"ADoteWerner/Maratest"/issues
+Imports: 
+    dplyr,
+    tibble
+Suggests:
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
+Depends: 
+    R (>= 2.10)
+LazyData: true
