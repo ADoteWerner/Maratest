@@ -2,9 +2,9 @@
 #
 #A dataset of viral titers for each day post infection (dpi)
 #'
-#' @format A data frame with xx variables:
+#' @format A data frame with 60 variables:
 #' \describe{
-#' \item{\code{tax_accepted_name}}{the accepted species name}
+#' \item{\code{virus}}{dpi}{titer}
 #' \item{\code{tax_genus}}{the genus}
 #' \item{\code{tax_tribus}}{the tribus}
 #' \item{\code{tax_subfamily}}{the subfamily}
